@@ -26,10 +26,6 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
-<img src="![image](https://github.com/user-attachments/assets/278cc409-ff5f-4803-bb5e-dc4a367e9866)"/>
----
-
 
 
 [![]([https://visitcount.itsvg.in/api?id=Va16hav07&icon=5&color=0)](https://visitcount.itsvg.in](https://i.redd.it/79nlfdf4clw41.png))
